@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "EGOIST『名前のない怪物』Music Video（テレビアニメ「PSYCHO-PASS」前期エンディングテーマ）",
+  "base_artist": "EGOIST",
+  "createdAt": "2026-01-05T05:47:49.029763Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "EGOIST   Departures~あなたにおくるアイの歌",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/pl_01_EGOIST_Departures~あなたにおくるアイの歌_EGOIST.txt"
+    }
+  ]
+}
