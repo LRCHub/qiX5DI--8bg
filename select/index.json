@@ -1,16 +1,128 @@
 {
   "version": 1,
-  "base_track": "EGOIST『名前のない怪物』Music Video（テレビアニメ「PSYCHO-PASS」前期エンディングテーマ）",
+  "base_track": "名前のない怪物 - Namae No Nai Kaibutsu",
   "base_artist": "EGOIST",
-  "createdAt": "2026-01-05T05:47:49.029763Z",
+  "createdAt": "2026-02-17T07:50:14.286393Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "名前のない怪物",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/01_名前のない怪物_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Namae No Nai Kaibutsu (TV Edit 92s ver) [名前のない怪物]",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/02_Namae_No_Nai_Kaibutsu_(TV_Edit_92s_ver)_[名前のない怪物]_EGOIST.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "名前のない怪物",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/03_名前のない怪物_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "名前のない怪物",
+      "artist": "Roselia",
+      "has_synced": false,
+      "path": "select/04_名前のない怪物_Roselia.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "名前のない怪物 -TV Edit -",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/05_名前のない怪物_-TV_Edit_-_EGOIST.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "名前のない怪物 - Cover",
+      "artist": "Roselia",
+      "has_synced": false,
+      "path": "select/06_名前のない怪物_-_Cover_Roselia.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Namae No Nai Kaibutsu [名前のない怪物]",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/07_Namae_No_Nai_Kaibutsu_[名前のない怪物]_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "名前のない怪物",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/08_名前のない怪物_EGOIST.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "名前のない怪物 - Namae No Nai Kaibutsu",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/09_名前のない怪物_-_Namae_No_Nai_Kaibutsu_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "名前のない怪物",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/10_名前のない怪物_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "名前のない怪物 -Instrumental-",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/11_名前のない怪物_-Instrumental-_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "名前のない怪物 -TV Edit- <NIGHT version>",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/12_名前のない怪物_-TV_Edit-__NIGHT_version_EGOIST.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "名前のない怪物 - Remixed by 中野雅之(BOOM BOOM SATELLITES)",
+      "artist": "中野雅之(BOOM BOOM SATELLITES)",
+      "has_synced": true,
+      "path": "select/13_名前のない怪物_-_Remixed_by_中野雅之(BOOM_BOOM_SATELLITES)_中野雅之(BOOM_BOOM_SATELLITES).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "名前のない怪物 (from BEST AL“ALTER EGO”)",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/14_名前のない怪物_(from_BEST_AL“ALTER_EGO”)_EGOIST.txt"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "EGOIST   Departures~あなたにおくるアイの歌",
+      "title": "名前のない怪物",
       "artist": "EGOIST",
       "has_synced": false,
-      "path": "select/pl_01_EGOIST_Departures~あなたにおくるアイの歌_EGOIST.txt"
+      "path": "select/pl_01_名前のない怪物_EGOIST.txt"
     }
   ]
 }
